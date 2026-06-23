@@ -5,8 +5,8 @@
         "album": "Aleb Fel Dafater",
         "date": "3 years ago",
         "duration": "5:06",
-        "cover": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/assets/images/Aleb.jpg",
-        "src": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/music/Aleb.mp3"
+        "cover": "https://3mmarx3.github.io/Music_Player/assets/images/Aleb.jpg",
+        "src": "https://3mmarx3.github.io/Music_Player/music/Aleb.mp3"
     },
     {
         "name": "Meen Kan Sabab",
@@ -14,8 +14,8 @@
         "album": "Meen Kan Sabab",
         "date": "3 years ago",
         "duration": "4:28",
-        "cover": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/assets/images/Meen.jpg",
-        "src": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/music/Meen.mp3"
+        "cover": "https://3mmarx3.github.io/Music_Player/assets/images/Meen.jpg",
+        "src": "https://3mmarx3.github.io/Music_Player/music/Meen.mp3"
     },
     {
         "name": "Ghasb Anny",
@@ -23,8 +23,8 @@
         "album": "Ghasb Anny",
         "date": "3 years ago",
         "duration": "4:24",
-        "cover": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/assets/images/Ghasb.jpg",
-        "src": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/music/Ghasb.mp3"
+        "cover": "https://3mmarx3.github.io/Music_Player/assets/images/Ghasb.jpg",
+        "src": "https://3mmarx3.github.io/Music_Player/music/Ghasb.mp3"
     },
     {
         "name": "Etnaseet",
@@ -32,8 +32,8 @@
         "album": "Etnaseet",
         "date": "2 years ago",
         "duration": "4:15",
-        "cover": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/assets/images/Etnaseet.jpeg",
-        "src": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/music/Etnaseet.mp3"
+        "cover": "https://3mmarx3.github.io/Music_Player/assets/images/Etnaseet.jpeg",
+        "src": "https://3mmarx3.github.io/Music_Player/music/Etnaseet.mp3"
     },
 
     {
@@ -42,8 +42,8 @@
         "album": "Abl Ma Awsalek",
         "date": "3 years ago",
         "duration": "3:45",
-        "cover": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/assets/images/AblMaAwsalek.jpg",
-        "src": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/music/AblMaAwsalek.mp3"
+        "cover": "https://3mmarx3.github.io/Music_Player/assets/images/AblMaAwsalek.jpg",
+        "src": "https://3mmarx3.github.io/Music_Player/music/AblMaAwsalek.mp3"
     },
     {
         "name": "Saban Aleiki",
@@ -51,7 +51,7 @@
         "album": "Saban Aleiki",
         "date": "1 year ago",
         "duration": "4:05",
-        "cover": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/assets/images/SabanAleiki.jpg",
-        "src": "https://3mmarx3.github.io/CodeAlpha_MusicPlayer/music/SabanAleiki.mp3"
+        "cover": "https://3mmarx3.github.io/Music_Player/assets/images/SabanAleiki.jpg",
+        "src": "https://3mmarx3.github.io/Music_Player/music/SabanAleiki.mp3"
     }
 ]
